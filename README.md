@@ -11,5 +11,5 @@ To verify the authenticity of my certificate, you can visit the verification lin
 
 ## Certificate Screenshot
 
-![OdinSchool Certificate](odinschool.png)
+![OdinSchool Certificate](OdinSchool.png)
 
